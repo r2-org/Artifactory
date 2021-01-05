@@ -1,0 +1,1 @@
+variable ARTIFACTORY_ACCESS_TOKEN {}
