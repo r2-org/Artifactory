@@ -1,6 +1,6 @@
 terraform {
   backend "remote" {
-    organization = "kriyaansh"
+    organization = "meetdpv"
 
     workspaces {
       name = "artifactory"
